@@ -1,12 +1,35 @@
 {
   "name": "mi-proyecto",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proyecto con ejercicios de JavaScript - Parcial 2",
   "main": "index.js",
   "scripts": {
+    "ejercicio-01": "node Ejercicios/ejercicio-01.js",
+    "ejercicio-02": "node Ejercicios/ejercicio-02.js",
+    "ejercicio-03": "node Ejercicios/ejercicio-03.js",
+    "ejercicio-04": "node Ejercicios/ejercicio-04.js",
+    "ejercicio-05": "node Ejercicios/ejercicio-05.js",
+    "ejercicio-06": "node Ejercicios/ejercicio-06.js",
+    "ejercicio-07": "node Ejercicios/ejercicio-07.js",
+    "ejercicio-08": "node Ejercicios/ejercicio-08.js",
+    "ejercicio-09": "node Ejercicios/ejercicio-09.js",
+    "ejercicio-10": "node Ejercicios/ejercicio-10.js",
+    "start": "node Ejercicios/ejercicio-01.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "javascript",
+    "ejercicios",
+    "programacion",
+    "parcial",
+    "arrays",
+    "funciones",
+    "objetos"
+  ],
+  "author": "Arthur Morgan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arthurmorgan1249824/mi-proyecto-javascript"
+  }
 }
